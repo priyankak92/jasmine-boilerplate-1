@@ -1,0 +1,15 @@
+export const config = {
+    url: "https://www.securian.com/insights-tools/retirement-calculator.html",
+    currentAgeValue: "40",
+    retirementAgeValue: "68",
+    currentAnnualIncome: "$100,000",
+    spouseAnnualIncome: "$75,000",
+    currentTotalSavings: "$500,000",
+    currentAnnualSavingsPercent: "10.0%",
+    savingsIncreaseRatePercent: "2%",
+    additionalIncomeFieldValue: "$500",
+    retirementDurationValue: "20",
+    retirementAnnualIncomeValue: "75%",
+    preRetirementReturnValue: "8%",
+    postRetirementReturnValue: "5%",
+};
